@@ -47,6 +47,10 @@
   <img height="165em" alt="Lucas-Israel's Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Lucas-Israel&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </div>
 
+<hr/>
+
+<h4>Contact:</h4>
+
 <a href="mailto:lucas_lokop2@hotmail.com">
   
 ![email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)
