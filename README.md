@@ -13,6 +13,7 @@
   <h4> Learning </h4>
   
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
   <h3>Frameworks and technologies</h3>
   
